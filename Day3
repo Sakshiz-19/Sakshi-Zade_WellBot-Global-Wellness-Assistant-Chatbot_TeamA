@@ -1,0 +1,8 @@
+Github and Gitlab
+Github:GitHub is a web-based platform that hosts code repositories, built on top of Git (a version control system), and is widely used for collaboration, version control, and project management in software development. It allows developers to store, share, and manage code, track changes, and work together on projects from anywhere in the world.
+Gitlab:GitLab is a web-based DevOps platform that provides Git repository hosting along with built-in tools for the entire software development lifecycle—version control, CI/CD pipelines, issue tracking, and project management.
+
+Commands of Git
+1.Git add:The command git add is one of the most fundamental Git commands. It’s used to stage changes in your working directory so they’re ready to be committed to the repository.
+- Moves changes from the working directory → to the staging area (also called the index).
+2.
